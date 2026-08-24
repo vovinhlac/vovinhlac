@@ -21,19 +21,19 @@ I work across the WordPress stack — PHP templates and plugin architecture, Woo
 ## Featured projects
 
 ### [WP Tools Pro](https://github.com/vovinhlac/wp-tools-pro)
-A modular WordPress operations toolkit covering security, redirects, consent, media, SMTP diagnostics, permissions, background processing, upgrade recovery, and release QA.
+A focused WordPress engineering snapshot covering modular security/performance/SEO/redirect features, resilient background processing, indexed operational data, webhook verification, and migration recovery.
 
-**Focus:** PHP architecture · WordPress APIs · security · queues · PHPUnit · PHPCS/WPCS · CI
+**Focus:** PHP architecture · WordPress APIs · MySQL · security · queues · PHPCS/WPCS · CI
 
 ### [VinhLac Market Theme](https://github.com/vovinhlac/vinhlac-market-theme)
-A custom WooCommerce theme for a digital-product marketplace, with reusable PHP templates, responsive UI, schema integration, search/storefront customization, and performance-oriented asset loading.
+A custom WooCommerce storefront project demonstrating responsive PHP templates, Tailwind configuration, performance-conscious asset loading, and guarded technical SEO/schema output.
 
 **Focus:** WordPress themes · WooCommerce · PHP · JavaScript · Tailwind CSS · technical SEO
 
 ### [Lacvo Core](https://github.com/vovinhlac/lacvo-core-plugin)
-A WordPress/WooCommerce operations plugin covering digital delivery, license inventory, multi-currency, anti-spam, email workflows, promotions, and custom admin tools.
+A WooCommerce operations snapshot demonstrating encrypted digital-license inventory, transactional allocation, idempotent fulfilment, and multi-currency order exchange-rate snapshots.
 
-**Focus:** PHP · WooCommerce hooks · validation/security · operations automation · admin UX
+**Focus:** PHP · WooCommerce hooks · MySQL · validation/security · ecommerce operations
 
 ## Contact
 
